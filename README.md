@@ -12,7 +12,7 @@ Homework
 --------
 
 1.  Follow the same workflow as in <a target="_blank" class="page-link"
-    href="https://github.com/2016-09-Middlebury-Data-Science/HW-0#homework">HW-0</a> for HW-4.
+    href="https://github.com/2016-09-Middlebury-Data-Science/HW-0#homework">HW-0</a> for HW-5.
 2.  I anticipate you spending between 3-4 hours total (across all submissions) on this homework.
 
 Tips
